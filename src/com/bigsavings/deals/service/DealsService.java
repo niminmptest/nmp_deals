@@ -36,7 +36,7 @@ public class DealsService {
 	private CommentHelper commentHelper;
 
 	// added to test git. TO be removed
-	private String test1;
+	private String test12;
  
 	@Path("/deal")
 	@GET
