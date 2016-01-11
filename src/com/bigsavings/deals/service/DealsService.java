@@ -34,6 +34,9 @@ public class DealsService {
 	
 	@Autowired
 	private CommentHelper commentHelper;
+
+	// added to test git. TO be removed
+	private String test;
  
 	@Path("/deal")
 	@GET
